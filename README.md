@@ -17,9 +17,9 @@ Please see `demo.ipynb` for the detail.
 # Results
 |image|![](sample/tigercat.jpg)|![](sample/dogsled.jpg)|
 |:-:|:-:|:-:|
-|CAM|![](sample/tiger\ cat_cam.png)|![](sample/dogsled, dog sled, dog sleigh_cam.png)|
+|CAM|![](sample/tiger-cat_cam.png)|![](sample/dogsled,-dog-sled,-dog-sleigh_cam.png)|
 |:-:|:-:|:-:|
-|Grad-CAM|![](sample/tigercat_gradcam.png)|![](sample/dogsled, dog sled, dog sleigh_gradcam.png)|
+|Grad-CAM|![](sample/tiger-cat_gradcam.png)|![](sample/dogsled, dog sled, dog sleigh_gradcam.png)|
 |:-:|:-:|:-:|
 |Grad-CAM++|![](sample/tiger cat_gradcampp.png)|![](sample/dogsled, dog sled, dog sleigh_gradcampp.png)|
 |:-:|:-:|:-:|
