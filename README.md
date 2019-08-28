@@ -15,15 +15,15 @@ You can use the CAM, GradCAM, GradCAM++ and Smooth Grad-CAM++ as a model wrapper
 Please see `demo.ipynb` for the detail.
 
 # Results
-|image|![](results/tigercat.jpg)|![](samples/dogsled.jpg)|
+|image|![](sample/tigercat.jpg)|![](sample/dogsled.jpg)|
 |:-:|:-:|:-:|
-|CAM|![](tiger cat_cam.png)|![](samples/dogsled, dog sled, dog sleigh_cam.png)|
+|CAM|![](sample/tiger cat_cam.png)|![](sample/dogsled, dog sled, dog sleigh_cam.png)|
 |:-:|:-:|:-:|
-|Grad-CAM|![](tiger cat_gradcam.png)|![](samples/dogsled, dog sled, dog sleigh_gradcam.png)|
+|Grad-CAM|![](sample/tiger cat_gradcam.png)|![](sample/dogsled, dog sled, dog sleigh_gradcam.png)|
 |:-:|:-:|:-:|
-|Grad-CAM++|![](tiger cat_gradcampp.png)|![](samples/dogsled, dog sled, dog sleigh_gradcampp.png)|
+|Grad-CAM++|![](sample/tiger cat_gradcampp.png)|![](sample/dogsled, dog sled, dog sleigh_gradcampp.png)|
 |:-:|:-:|:-:|
-|Smooth Grad-CAM++|![](tiger cat_smoothgradcampp.png)|![](samples/dogsled, dog sled, dog sleigh_smoothgradcampp.png)|
+|Smooth Grad-CAM++|![](sample/tiger cat_smoothgradcampp.png)|![](sample/dogsled, dog sled, dog sleigh_smoothgradcampp.png)|
 
 ## References
 * Smooth Grad-CAM++: An Enhanced Inference Level Visualization Technique for Deep Convolutional Neural Network Models,  
